@@ -154,4 +154,7 @@ body {
     .card-box {
         grid-template-columns: repeat(4, minmax(60px, 1fr));
     }
+    .start-page {
+        height: 100vh;
+    }
 }
